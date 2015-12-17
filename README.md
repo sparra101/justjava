@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Just Java - Coffee Ordering App Project<br>
 <b>Norwalk High School</b> :school: - <b>Project Lead The Way (PLTW) Computer Science</b><br>
 <b>Class:</b> Computer Science Applications (CSA) - 2nd Year (Sophomores)<br>
@@ -22,3 +23,7 @@
 <br><br>
 <b>Korean Version</b>&nbsp;&nbsp; :kr:<br><br>
 ![Alt text](https://github.com/vpluma/vinsonjustjava/blob/master/screenshots/korean_unfilled_version.png "Korean Version")
+=======
+# justjava
+Norwalk High school - Android App Project
+>>>>>>> 89afd1e15a3656238aa8a194dd4984f734714e22
